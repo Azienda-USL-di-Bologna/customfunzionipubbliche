@@ -1,0 +1,311 @@
+﻿; Directories
+images/
+resources/
+web/lib/
+src/
+applets/
+js/JqueryToastMessage/
+js/JqueryToastMessage/resources/
+js/JqueryToastMessage/resources/css/
+js/JqueryToastMessage/resources/images/
+
+; Files
+images/Works-in-progress-icon.png
+images/no_anteprima.gif
+images/fullscreen.png
+images/no_attach.png
+images/no_attach.jpg
+images/application-view-detail-icon.png
+images/LockNoPreview.png
+images/LockNoPreview.jpg
+images/Zoom-icon.png
+images/cartella_rossa.png
+images/page-accept-icon.png
+images/page-swap-icon.png
+images/navigate-right-icon.png
+images/elimina.png
+images/Works-in-progress-icon_big.png
+images/Folder-Downloads-icon32.png
+images/Folder-Downloads-icon32_old.png
+
+resources/AdobeRGB1998.icc
+resources/arial.ttf
+
+; Jquery
+js\jquery.js
+
+; Jquery ToastMessage
+js\JqueryToastMessage\jquery.toastmessage.js
+js\JqueryToastMessage\resources\images\close.png
+js\JqueryToastMessage\resources\images\error.png
+js\JqueryToastMessage\resources\images\notice.png
+js\JqueryToastMessage\resources\images\success.png
+js\JqueryToastMessage\resources\images\warning.png
+js\JqueryToastMessage\resources\css\jquery.toastmessage.css
+
+;Primus lib
+js\primus.js
+
+;Firma Due
+js\firma_due.js
+
+; Primus Client
+js\primus_client.js
+
+; My JS Utils
+js\my_utils.js
+
+; Servlets
+src\ReceiveSignedFile.java
+src\GrmWz.java
+
+; ldapConnector
+web\lib\ldapConnector.jar
+
+; MasterChefClient
+web\lib\masterchefclient-1.0.jar
+web\lib\jedis-2.9.0.jar
+web\lib\json-simple-1.1.1.jar
+web\lib\commons-pool2-2.4.2.jar
+
+; jackson libs
+web\lib\jackson-core-2.9.9.jar
+web\lib\jackson-databind-2.9.9.jar
+web\lib\jackson-annotations-2.9.9.jar
+web\lib\jackson-dataformat-yaml-2.9.9.jar
+;web\lib\jackson-dataformat-xml-2.9.9.jar
+web\lib\jackson-module-jaxb-annotations-2.9.9.jar
+
+; joda
+web\lib\jackson-datatype-joda-2.9.9.jar
+web\lib\joda-time-2.5.jar
+web\lib\joda-convert-1.2.jar
+
+; ParerDocumentBuilder.jar
+web\lib\ParerDocumentBuilder.jar
+
+
+; log4j
+web\lib\log4j-1.2.17.jar
+
+; log4j2
+web\lib\log4j-1.2-api-2.11.0.jar
+web\lib\log4j-api-2.17.1.jar
+web\lib\log4j-core-2.17.1.jar
+
+;web\lib\log4j-1.2-api-2.3.jar
+;web\lib\log4j-api-2.3.jar
+;web\lib\log4j-core-2.3.jar
+
+; proctonUtils
+web\lib\proctonutils.jar
+web\lib\bcmail-jdk15on-1.65.jar
+web\lib\bcpkix-jdk15on-1.65.jar
+web\lib\bcprov-jdk15on-1.65.01.jar
+web\lib\itextpdf-5.5.13.2.jar
+web\lib\itext-pdfa-5.5.13.2.jar
+web\lib\jtidy-r938.jar
+web\lib\spring-security-crypto-5.2.6.RELEASE.jar
+
+; FlexPaper
+FlexPaper_1.4.5_flash/FlexPaperViewer.swf
+FlexPaper_1.5.1_flash/FlexPaperViewer.swf
+
+; MongoWrapper
+web\lib\mongo-java-driver-2.13.2.jar
+web\lib\geronimo-jms_1.1_spec-1.0.jar
+;web\lib\javaee-api-5.0-2.jar
+web\lib\activation-1.1.jar
+web\lib\disruptor-3.3.2.jar
+web\lib\jansi-1.11.jar
+web\lib\javax.persistence-2.1.0.jar
+web\lib\jboss-jms-api_1.1_spec-1.0.1.Final.jar
+web\lib\org.osgi.core-4.3.1.jar
+web\lib\snakeyaml-1.12.jar
+
+web\lib\woodstox-core-5.0.2.jar
+web\lib\repository-wrapper-2.1.jar
+
+; minIO-Manager
+web\lib\minIO-manager-1.2.jar
+
+; minIO-Manager dependencies
+web\lib\animal-sniffer-annotations-1.14.jar
+web\lib\antlr-2.7.7.jar
+web\lib\byte-buddy-1.10.13.jar
+web\lib\checker-qual-2.0.0.jar
+web\lib\classmate-1.5.1.jar
+web\lib\dom4j-2.1.3.jar
+web\lib\error_prone_annotations-2.1.3.jar
+web\lib\guava-25.1-jre.jar
+web\lib\hibernate-commons-annotations-5.1.0.Final.jar
+web\lib\HikariCP-3.4.5.jar
+web\lib\istack-commons-runtime-3.0.11.jar
+web\lib\j2objc-annotations-1.1.jar
+web\lib\jakarta.xml.bind-api-2.3.3.jar
+web\lib\jandex-2.1.3.Final.jar
+web\lib\javassist-3.24.0-GA.jar
+web\lib\javax.activation-api-1.2.0.jar
+web\lib\javax.annotation-api-1.3.jar
+web\lib\javax.persistence-api-2.2.jar
+web\lib\jaxb-api-2.3.1.jar
+web\lib\jaxb-runtime-2.3.3.jar
+web\lib\jboss-logging-3.4.1.Final.jar
+web\lib\jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+web\lib\jcip-annotations-1.0.jar
+web\lib\jsr305-3.0.2.jar
+web\lib\minio-8.2.1.jar
+web\lib\okhttp-3.14.9.jar
+web\lib\simple-xml-safe-2.7.1.jar
+web\lib\spotbugs-annotations-4.0.0.jar
+web\lib\sql2o-1.6.0.jar
+web\lib\sql2o-postgres-1.6.0.jar
+web\lib\txw2-2.3.3.jar
+
+; BabelT2Client
+web\lib\babelT2Client.jar
+web\lib\disruptor-1.2.10-jdk7.jar
+web\lib\jctools-core-1.2.1.jar
+web\lib\kafka-clients-0.10.1.1.jar
+web\lib\lz4-1.3.0.jar
+web\lib\snappy-java-1.1.2.6.jar
+web\lib\jeromq-0.3.6.jar
+web\lib\commons-csv-1.4.jar
+web\lib\jcommander-1.48.jar
+web\lib\log4j-slf4j-impl-2.17.1.jar
+;web\lib\log4j-slf4j-impl-2.6.2.jar
+web\lib\slf4j-ext-1.7.21.jar
+web\lib\cal10n-api-0.8.1.jar
+
+; stax
+web\lib\stax-api-1.0-2.jar
+web\lib\stax2-api-3.1.4.jar
+
+; MimeType Utility
+web\lib\tika-core-1.24.jar
+web\lib\tika-java7-1.24.jar
+web\lib\tika-parsers-1.24.jar
+web\lib\poi-4.1.0.jar
+web\lib\poi-ooxml-4.1.0.jar
+web\lib\poi-scratchpad-4.1.0.jar
+web\lib\MimeTypeUtility.jar
+
+
+; EmlHandler
+web\lib\emlHandler.jar
+;web\lib\mail.jar
+
+; Estrattore
+web\lib\commons-compress-1.18.jar
+web\lib\commons-collections4-4.3.jar
+web\lib\xz-1.8.jar
+web\lib\Estrattore.jar
+
+; Spedizioniere Client
+web\lib\SpedizioniereClient.jar
+
+; Spedizioniere Client Dependencies
+web\lib\commons-cli-1.2.jar
+web\lib\commons-codec-1.6.jar
+;web\lib\commons-fileupload-1.2.jar
+web\lib\commons-httpclient-3.1.jar
+web\lib\commons-io-2.4.jar
+;web\lib\commons-logging-1.1.1.jar
+web\lib\commons-logging-1.2.jar
+web\lib\httpcore-4.3.3.jar
+;web\lib\mail-1.4.3.jar
+web\lib\javax.mail-1.5.4.jar
+web\lib\fluent-hc-4.2.5.jar
+web\lib\httpclient-4.3.6.jar
+web\lib\httpclient-cache-4.2.5.jar
+web\lib\httpmime-4.2.5.jar
+
+; ReceiveSignedFile Servlet
+;web\lib\commons-fileupload-1.2.2.jar
+web\lib\commons-fileupload-1.3.1.jar
+
+; Termina la JVM
+applets\SignedAppletFoo.jar
+
+;questo è quello nuovo replaceHtmlContentTag
+web\lib\replaceHtmlContentTag.jar 
+;web\lib\replaceHtmlTagContent.jar
+web\lib\jsoup-1.6.1.jar
+web\lib\diff.jar
+web\lib\checkAlignment.jar
+
+; IodaObjectLibrary
+web\lib\iodaobjectlibrary-1.0.jar
+
+; parameters_client
+web\lib\parameters_client.jar
+
+; Spring client libs
+web\lib\aopalliance-1.0.jar
+web\lib\commons-dbcp2-2.1.jar
+web\lib\geronimo-jta_1.1_spec-1.1.1.jar
+web\lib\groovy-all-2.3.11.jar
+web\lib\gson-2.8.6.jar
+web\lib\hamcrest-core-1.1.jar
+web\lib\hessian-4.0.38.jar
+web\lib\httpasyncclient-4.0.2.jar
+web\lib\httpcore-nio-4.3.2.jar
+web\lib\javax.el-api-2.2.5.jar
+web\lib\javax.faces-api-2.2.jar
+web\lib\javax.mail-api-1.5.2.jar
+web\lib\javax.servlet.jsp-api-2.2.1.jar
+web\lib\javax.servlet-api-3.0.1.jar
+web\lib\jdom-2.0.2.jar
+web\lib\jetty-http-9.2.11.v20150529.jar
+web\lib\jetty-io-9.2.11.v20150529.jar
+web\lib\jetty-security-9.2.11.v20150529.jar
+web\lib\jetty-server-9.2.11.v20150529.jar
+web\lib\jetty-servlet-9.2.11.v20150529.jar
+web\lib\jetty-util-9.2.11.v20150529.jar
+web\lib\junit-4.10.jar
+web\lib\netty-all-4.0.29.Final.jar
+web\lib\portlet-api-2.0.jar
+web\lib\protobuf-java-2.6.1.jar
+web\lib\protobuf-java-format-1.2.jar
+web\lib\rome-1.5.0.jar
+web\lib\rome-utils-1.5.0.jar
+web\lib\slf4j-api-1.7.21.jar
+web\lib\spring-aop-5.2.8.RELEASE.jar
+web\lib\spring-beans-5.2.8.RELEASE.jar
+web\lib\spring-context-5.2.8.RELEASE.jar
+web\lib\spring-core-5.2.8.RELEASE.jar
+web\lib\spring-expression-5.2.8.RELEASE.jar
+web\lib\spring-oxm-5.2.8.RELEASE.jar
+web\lib\spring-web-5.2.8.RELEASE.jar
+web\lib\spring-jcl-5.2.8.RELEASE.jar
+
+; Spedizioniere Object Library
+web\lib\spedizioniereobjectlibrary-1.0.jar
+
+;redis_client
+web\lib\redis_client-1.0.jar
+
+;firmaremota_client
+;web\lib\firmaremota_client.jar
+web\lib\firma-remota-client-1.0.jar
+web\lib\firma-data-1.0.jar
+web\lib\xpp3_min-1.1.4c.jar
+web\lib\android-4.1.1.4.jar
+web\lib\json-20180813.jar
+web\lib\okio-1.17.2.jar
+web\lib\opengl-api-gl1.1-android-2.1_r1.jar
+web\lib\xmlParserAPIs-2.6.2.jar
+
+; SuperCSV
+web\lib\super-csv-2.4.0.jar
+
+; JWT
+web\lib\jose4j-0.6.3.jar
+web\lib\jjwt-0.6.0.jar
+web\lib\JWTGenerator.jar
+web\lib\slf4j-jdk14-1.7.25.jar
+;web\lib\log4j-api-2.11.0.jar
+
+
+; pagina che viene aperta per permettere il download da internet explorer senza che si chiuda la finestra a causa delle impostazioni di siucrezza
+openDoc.htm
